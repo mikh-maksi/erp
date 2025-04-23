@@ -31,9 +31,8 @@ Go to your page by click the button "View page"
 
 <img src = "img/erp08.png">
 
-Here is your page
-
-
+Here is your page  
+There is a link for example page from screenshots: <a href = "https://www.erp.innovations.kh.ua/name-of-my-project/" target = "_blank">https://www.erp.innovations.kh.ua/name-of-my-project/</a>
 
 ## Create page of your project.
 
