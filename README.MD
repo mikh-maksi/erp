@@ -24,8 +24,14 @@ Click to "Add New Page"
 Fill in title of your page (Name of your Project) and some text (Description on your project) and press the button "Publish"
 
 <img src = "img/erp06.png">
+Click to the button "Publish" one more time to Confirm of publishing your page.
+
 <img src = "img/erp07.png">
+Go to your page by click the button "View page"
+
 <img src = "img/erp08.png">
+
+Here is your page
 
 
 
