@@ -14,8 +14,15 @@ Fill in the form by your login and password and push the Log In button
 ## Create your own page.
 
 <img src = "img/erp03.png">
+Go to the Pages menu
+
 <img src = "img/erp04.png">
+Click to "Add New Page" 
+
+
 <img src = "img/erp05.png">
+Fill in title of your page (Name of your Project) and some text (Description on your project) and press the button "Publish"
+
 <img src = "img/erp06.png">
 <img src = "img/erp07.png">
 <img src = "img/erp08.png">
