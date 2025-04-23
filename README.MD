@@ -1,10 +1,17 @@
 # ERP
-## Login to site for ERP on WordPress.
+## Registaer to site for ERP on WordPress.
 <a href = "https://www.erp.innovations.kh.ua/wp-login.php?action=register" targer = _blank>https://www.erp.innovations.kh.ua/wp-login.php?action=register</a>
 
 <img src = "img/erp01.png">
 
+## Login to site for ERP on WordPress.
+
 <img src = "img/erp02.png">
+
+<img src = "img/erp02a.png">
+Fill in the form by your login and password and push the Log In button 
+
+## Create your own page.
 
 <img src = "img/erp03.png">
 <img src = "img/erp04.png">
@@ -13,7 +20,7 @@
 <img src = "img/erp07.png">
 <img src = "img/erp08.png">
 
-## Create your own page.
+
 
 ## Create page of your project.
 
