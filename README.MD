@@ -57,14 +57,42 @@ There is a link for example page from screenshots: <a href = "https://www.erp.in
 <img src = "img/Post07.png">  
 <img src = "img/Post08.png">  
 
-## Create 3 products, that relate your project.
+## Add your project page to menu
 
+<img src = "img/menu01.png">  
+<img src = "img/menu02.png">  
+<img src = "img/menu03.png">  
+<img src = "img/menu04.png">  
+<img src = "img/menu05.png">  
+
+
+
+## Create 3 products, that relate your project.
+<img src = "img/product01.png">  
+<img src = "img/product02.png">  
+<img src = "img/product03.png">  
+<img src = "img/product04.png">  
+<img src = "img/product05.png">  
+<img src = "img/product06.png">  
+<img src = "img/product07.png">  
+<img src = "img/product08.png">  
+<img src = "img/product09.png">  
 
 ## Buy 3 products of another customers.
+<img src = "img/buy01.png">  
+<img src = "img/buy02.png">  
+<img src = "img/buy03.png">  
+<img src = "img/buy04.png">  
+<img src = "img/buy05.png">  
+<img src = "img/buy06.png">  
+<img src = "img/buy07.png">  
+<img src = "img/buy08.png">  
 
 
 ## Write 3 comments for products by another customers.
-
+<img src = "img/comment01.png">  
+<img src = "img/comment02.png">  
+<img src = "img/comment03.png">  
 
 ## Describe 3 profile of staff for your 
 - Main responsibilities
