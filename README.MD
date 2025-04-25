@@ -9,6 +9,7 @@
 <img src = "img/erp02.png">
 
 <img src = "img/erp02a.png">
+
 Fill in the form by your login and password and push the Log In button 
 
 ## Create your own page.
@@ -34,13 +35,27 @@ Go to your page by click the button "View page"
 Here is your page  
 There is a link for example page from screenshots: <a href = "https://www.erp.innovations.kh.ua/name-of-my-project/" target = "_blank">https://www.erp.innovations.kh.ua/name-of-my-project/</a>
 
-## Create page of your project.
+## Create post of your project.
+<img src = "img/page01.png">  
+<img src = "img/page02.png">  
+<img src = "img/page03.png">  
+<img src = "img/page04.png">  
+<img src = "img/page05.png">  
+
 
 
 ## Create category with name as your project.
 
-## Add news of your project.
+<img src = "img/Post01.png">  
+<img src = "img/Post02.png">  
+<img src = "img/Post03.png">  
 
+## Add news of your project.
+<img src = "img/Post04.png">  
+<img src = "img/Post05.png">  
+<img src = "img/Post06.png">  
+<img src = "img/Post07.png">  
+<img src = "img/Post08.png">  
 
 ## Create 3 products, that relate your project.
 
